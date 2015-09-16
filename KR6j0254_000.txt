@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說聖觀自在菩薩梵讚
+#+DATE: 2015-08-30 20:28:52.619418
+#+PROPERTY: JUAN 0
